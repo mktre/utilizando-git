@@ -1,1 +1,2 @@
 A branch “master” é a principal do projeto, é ela que aparece para o usuário como utilizável
+A master irá contér todo código já testado, versionado que será entregue ao cliente
