@@ -1,0 +1,12 @@
+para criar uma branch digite:
+git branch nome-da-branch
+
+para apagar uma branch digite:
+git branch -D nome-da-branch
+
+para trocar entre branch digite:
+git checkout nome-da-branch
+
+para ver todas as branchs digite:
+git branch
+
